@@ -1,0 +1,5 @@
+# Write your MySQL query statement below
+SELECT machine_id,
+       ROUND(AVG(IF(activity_type = 'start', -timestamp, timestamp)) * 2, 3) AS processing_time
+FROM Activity
+GROUP BY machine_id;
