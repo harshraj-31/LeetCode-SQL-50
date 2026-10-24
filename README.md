@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/harshraj-31/LeetCode-SQL-50/tree/master/1789-primary-department-for-each-employee) |
 | [1934-confirmation-rate](https://github.com/harshraj-31/LeetCode-SQL-50/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/harshraj-31/LeetCode-SQL-50/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Math
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/harshraj-31/LeetCode-SQL-50/tree/master/2409-count-days-spent-together) |
+## String
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/harshraj-31/LeetCode-SQL-50/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
