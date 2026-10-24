@@ -41,4 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/harshraj-31/LeetCode-SQL-50/tree/master/2409-count-days-spent-together) |
+| [3093-longest-common-suffix-queries](https://github.com/harshraj-31/LeetCode-SQL-50/tree/master/3093-longest-common-suffix-queries) |
+## Array
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/harshraj-31/LeetCode-SQL-50/tree/master/3093-longest-common-suffix-queries) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/harshraj-31/LeetCode-SQL-50/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
